@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    background-color: #436b62;
+}
+#title-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    margin-bottom: 72px;
+}
+#title{
+    width: 408px;
+    height: 44px;
+}
+#img1-box{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#img2-box{
+    display: flex;
+    justify-content: center;
+}
+.img2{
+    margin-left: 124px;
+    margin-right: 124px;
+}
