@@ -1,0 +1,12 @@
+img{
+    display: flex;
+    align-items: center;
+    margin-top: 300px;
+    margin-left: 300px;
+}
+
+cabeçalho{
+    display: flex;
+    text-align: left;
+    
+}
