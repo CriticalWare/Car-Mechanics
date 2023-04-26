@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-color: #436b62;
+    background-color: #f1f1f1;
 }
 #title-box{
     display: flex;
@@ -16,7 +16,7 @@ body{
     display: flex;
     justify-content: center;
 }
-.img1{
+.rec21{
     margin-left: 30px;
     margin-right: 30px;
 }
@@ -24,7 +24,45 @@ body{
     display: flex;
     justify-content: center;
 }
-.img2{
+.rec35{
     margin-left: 124px;
     margin-right: 124px;
+}
+#last-row{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-top: -63px;
+    margin-bottom: 120px;
+}
+#elements{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -126px;
+}
+.img3{
+    display: flex;
+    flex-direction: column;
+    width: 284px;
+    height: 126px;
+    align-items: center;
+}
+#img3-2{
+    margin-left: 124px;
+    margin-right: 124px;
+}
+.rec24{
+    margin-top: 24px;
+}
+.rec25{
+    margin: 18px;
+}
+.ball-row{
+    display: flex;
+    flex-direction: row;
+}
+.ball-un{
+    margin-left: 16px;
+    margin-right: 16px;
 }
