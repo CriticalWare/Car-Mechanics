@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#contato{
+    width: 1440px;
+    height: 673px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-self: center;
+}
+
+#contato h1{
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 72px;
+}
+
+#contato-box{
+    display: flex;
+    width: 100vw;
+    height: 500px;
+}
+
+#wrapper{
+    justify-content: center;
+    align-self: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 500px;
+}
+
+.contato-card{
+    display: flex;
+    width: 510px;
+    height: 100px;
+    padding: 10px;
+}
+
+.contato-img{
+    display: flex;
+    width: 75px;
+    height: 75px;
+}
+
+.contato-txt{
+    display: flex;
+    width: 400px;
+    height: 75px;
+    flex-direction: column;
+    position: relative;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+
+.contato-txt p{
+    display: flex;
+    text-align: left;
+}
+
+#contato-input{
+    display: flex;
+    width: 1000px;
+    height: 500px;
+    flex-direction: column;
+}
+
+#nome{
+    display: flex;
+    width: 400px;
+    height: 50px;
+    margin: 10px;
+}
+
+#text-mail{
+    display: flex;
+}
+
+#email{
+    display: flex;
+    width: 400px;
+    height: 50px;
+    margin: 10px;
+}
+
+#texto{
+    display: flex;
+    width: 830px;
+    height: 250px;
+    margin: 10px;
+}
+
+#enviar{
+    display: flex;
+    text-decoration: none;
+    width: 250px;
+    height: 75px;
+    background-color: gray;
+    align-self: flex-end;
+    border-radius: 15px;
+    color: white;
+    margin: 10px;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+}
