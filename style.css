@@ -5,10 +5,20 @@
     margin-left: 200px;
     margin-right: 200px;
     margin-bottom: 200px;
-}
-
-cabeçalho{
-    display: flex;
-    text-align: left;
     
 }
+
+.cabeçalho{
+    display: flex;
+    text-align: left;
+    margin: 40px;
+    
+}
+
+.textos{
+    margin: 40px;
+}
+
+.botao{
+    margin: 40px;
+    font-size:x-large;
