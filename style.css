@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.imagens{
+    display: flex;
+    width:62px;
+    height: 62px;
+}
+.card_manutenção{
+box-sizing: border-box;
+width: 378px;
+height: 330px;
+}
+.servicos{
+    width: 1500px;
+    display: flex;
+    margin-left: 123px;
+    margin-right: 123px;
+
+}
